@@ -37,7 +37,7 @@ Unlike software, errors in hardware can be very expensive - not just in money, b
 
 Fortunately, there is a solution to this! Tools like Fusion360 and Onshape allow you to create 1:1 models of your designs vs real life. That means that as long as everything matches up in your 3D model, everything will match in real life too!\*
 
-**granted, this does have some limitations - CAD software has trouble accounting for IRL properties (3D printing inaccuracies, thermal expansion, etc) that need to be accounted for - check out **[designing for reality](/docs/design-reality)\*_ to learn how to fix this!_
+_granted, this does have some limitations - CAD software has trouble accounting for IRL properties (3D printing inaccuracies, thermal expansion, etc) that need to be accounted for - check out [designing for reality](/design/design-tips/#designing-for-real-life) to learn how to fix this!_
 
 ## Poor Quality README:
 
@@ -70,7 +70,7 @@ The last example is just poor part sourcing. This means getting an arduino for $
 
 It's really important that we are all efficient with our projects, because it means every bit of money we have can go further in the program.
 
-_this is the judgement that has the most wiggle room - if you feel like you should have an exception, please ask in #highway and ping an organizer_
+_this is the judgement that has the most wiggle room - if you feel like you should have an exception, please ask an organizer in your program!_
 
 ## Lack of polish
 
@@ -80,7 +80,7 @@ Polishing your project is the process of turning your project from a minimum tec
 
 The easiest way to think of polishing your design is adding detail to it!
 
-For example, on a functional level, almost every keyboard can be reduced down to a 60%/75%/TKL layout on a
+For example, on a functional level, almost every keyboard can be reduced down to a 60%/75%/TKL layout in a flat rectangular block
 
 What makes them cool & unique are all the details that the designers put in - the different tilt angles, chamfers, engravings, etc.
 
