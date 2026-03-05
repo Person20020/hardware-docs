@@ -34,6 +34,8 @@ First import the PCB into your CAD program. In FreeCAD you can drag and drop the
     - Set destination to 'Existing Design'
     - Click 'OK' and select the other file you created
 
+This will put everything in the component in the new file.
+
 Once you have the PCB you can start on the case. For simple projects where the case is just an enclosure for the PCB (maybe some buttons, a display, connectors, or things like that) it can be easiest to start by making a simple box shape and then add detail after. 
 
 This was my process:
@@ -68,3 +70,7 @@ The mounting method you choose will depend a lot on the constraints of your desi
 At this point you have a case that is fully functional and could be used as is, but there is still a lot you can do to make it a 'polished' project.
 
 [This](/other/returns/#lack-of-polish) explains pretty well what polish is but basically it is all of the details that you can add to get it from a basic functioning project to something that looks original and 'complete'.
+
+The orpheuspad is a great example of a polished project. All the edges are rounded/chamfered, it has accent colors, a logo, and in general looks like a finished project.
+
+![orpheuspad](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/a00982621f8f94532ac8d508a83f39504c0a2b4c_image.png)
