@@ -47,7 +47,7 @@ This was my process:
 ![Add mounting](/user-contrib-guides-media/case-design/basic-case-design-4.png)
 
 <video controls>
-    <source src="https://cdn.hackclub.com/019cbf8f-cf88-7dc4-b9b4-ce7e01afa3e2/Case%20Design%20Guide-Basic%20Case.mp4https://cdn.hackclub.com/019cbf8f-cf88-7dc4-b9b4-ce7e01afa3e2/Case%20Design%20Guide-Basic%20Case.mp4" type="video/mp4">
+    <source src="https://cdn.hackclub.com/019cbf8f-cf88-7dc4-b9b4-ce7e01afa3e2/Case%20Design%20Guide-Basic%20Case.mp4" type="video/mp4">
 </video>
 
 > <small>An example video of designing a case for a USB hub at 8x speed. I forgot to add a hole for the port on the back but it is the exact same process.</small>
@@ -67,4 +67,4 @@ The mounting method you choose will depend a lot on the constraints of your desi
 ## Decoration / Art / Polish
 At this point you have a case that is fully functional and could be used as is, but there is still a lot you can do to make it a 'polished' project.
 
-[This](https://hwdocs.hackclub.dev/other/returns/#lack-of-polish) explains pretty well what polish is but basically it is all of the details that you can add to get it from a basic functioning project to something that looks original and 'complete'.
+[This](/other/returns/#lack-of-polish) explains pretty well what polish is but basically it is all of the details that you can add to get it from a basic functioning project to something that looks original and 'complete'.
