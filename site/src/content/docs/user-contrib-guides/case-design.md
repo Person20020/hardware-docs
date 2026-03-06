@@ -2,7 +2,7 @@
 title: "Designing PCB cases"
 ---
 
-Written by: Person20020/Koji
+Written by: [Person20020/Koji](https://hackclub.enterprise.slack.com/team/U07QNKS5SKA)
 
 Designing a nice case for your PCB projects can be the thing that takes it from something that looks like a cool idea to a well polished project that is ready to ship.
 
