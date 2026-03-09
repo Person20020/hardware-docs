@@ -13,6 +13,8 @@ title: "Designing PCB cases"
     }
 </style>
 
+![fusion render split](/user-contrib-guides-media/case-design/fusion-render-split.png)
+
 Written by: [Person20020/Koji](https://hackclub.enterprise.slack.com/team/U07QNKS5SKA)
 
 Designing a nice case for your PCB projects can be the thing that takes it from something that looks like a cool idea to a well polished project that is ready to ship.
@@ -162,7 +164,7 @@ The mounting method you choose will depend a lot on the constraints of your desi
 
 ## Decoration / Art / Polish
 
-At this point you have a case that is fully functional and could be used as is, but there is still a lot you can do to make it a 'polished' project.
+At this point you have a case that is fully functional and could be used as is, but there is still a lot you can do to make it a 'polished' project. This guide was a simple example of how to make a case and you should add more to customize and make it your own.
 
 [This](/other/returns/#lack-of-polish) explains pretty well what polish is but basically it is all of the details that you can add to get it from a basic functioning project to something that looks original and 'complete'.
 
