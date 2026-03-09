@@ -144,7 +144,7 @@ The mounting method you choose will depend a lot on the constraints of your desi
   If you have multiple connectors in a row, you can then use the `Rectangular Pattern` tool. This lets you design everything about the port once and then duplicate all of the operations (the two extrudes and the fillet) in a row/grid. This is super useful since our goal is to repeat ourselves as little as possible so that we only have to change one thing and everything else automatically updates.
     ![usb rectangular pattern](/user-contrib-guides-media/case-design/fusion-usb-rectangular-pattern.png)
   
-  Repeat all of this for however many connectors you might have. You can also add all of your other features like this integrated button I made for mute.
+  Repeat all of this for however many connectors you might have. You can go around and add fillets on edges and all of your other features like this integrated button I made for mute.
     ![button tab](/user-contrib-guides-media/case-design/fusion-button-tab.png)
   
   ### Mounting
