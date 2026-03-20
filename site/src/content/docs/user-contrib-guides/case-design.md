@@ -19,7 +19,7 @@ Written by: [Person20020/Koji](https://hackclub.enterprise.slack.com/team/U07QNK
 
 Designing a nice case for your PCB projects can be the thing that takes it from something that looks like a cool idea to a well polished project that is ready to ship.
 
-I use KiCad and FreeCAD but other software will be pretty similar. I won't be saying exactly what buttons to press but rather the process to go through.
+I am using KiCad and Fusion in the example but other software will be pretty similar. If you can't figure anything out, searching the internet is a great way to start or you can ask in the Hack Club slack! (#Hardware or the current hardware YSWS channel might be good places.)
 
 ## Prepare Your PCB
 
@@ -136,9 +136,9 @@ The mounting method you choose will depend a lot on the constraints of your desi
   
   Next we will add some other important details. Here I will be adding the cutouts for USB ports. 
   
-  1. Create a sketch on the face where you need the cutout. I will be starting with the USB ports. You can then hide the case and use the `Project` tool to add the outline of the port. Create an offset line with a distance 0.5mm. Finish the sketch and then extrude it. You can use the `To Object` extent type to make the extrude go only through the wall. This is the main through hole.
+  1. Create a sketch on the face where you need the cutout. I will be starting with the USB ports. You can then hide the case and use the `Project` tool to add the outline of the port. Create an offset line with a distance 0.5mm. (This is to add a bit of extra clearance for 3D printing.) Finish the sketch and then extrude it. You can use the `To Object` extent type to make the extrude go only through the wall. This is the main through hole.
     ![usb extrude](/user-contrib-guides-media/case-design/fusion-usb-extrude1.png)
-  2. Now create another sketch on the same face and create an offset of the previous hole. This is for the wider part of the connector. Most have a max size of 6.5x11.5mm so I will be using a hole that is 13mm wide. Finish the sketch and extrude as a cut. The connector I am using has a 1.85mm gap between the front of the connector and the plastic part of the connector on the cable so I will be leaving 1mm of material by using `To Object` and an offset of -1mm.
+  2. Now create another sketch on the same face and create an offset of the previous hole. This is for the wider part of the connector. Most USB C cable connectors have a max size of 6.5x11.5mm so I will be using a hole that is 13mm wide. Finish the sketch and extrude as a cut. The connector I am using has a 1.85mm gap between the front of the connector (the female one on the PCB) and the plastic part of the connector on the cable so I will be leaving 1mm of material by using `To Object` and an offset of -1mm.
     ![usb extrude 2](/user-contrib-guides-media/case-design/fusion-usb-extrude2.png)
     ![connector datasheet](/user-contrib-guides-media/case-design/connector-datasheet.png)
   3. Add fillets and any other details to the cutout.
@@ -166,7 +166,7 @@ The mounting method you choose will depend a lot on the constraints of your desi
 
 At this point you have a case that is fully functional and could be used as is, but there is still a lot you can do to make it a 'polished' project. This guide was a simple example of how to make a case and you should add more to customize and make it your own.
 
-[This](/other/returns/#lack-of-polish) explains pretty well what polish is but basically it is all of the details that you can add to get it from a basic functioning project to something that looks original and 'complete'.
+[This](/other/returns/#lack-of-polish) explains pretty well what polish is but basically it is all of the details that you can add to get it from a basic functioning project to something that looks like an original and complete 'product'.
 
 The orpheuspad is a great example of a polished project. All the edges are rounded/chamfered, it has accent colors, a logo, and in general looks like a finished project.
 
